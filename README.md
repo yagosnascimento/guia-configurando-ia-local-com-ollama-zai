@@ -35,9 +35,6 @@ O Ollama é o motor que permite gerenciar e rodar modelos de linguagem de forma 
 4.  Certifique-se de que o ícone do Ollama esteja visível na barra de tarefas, indicando que o servidor está ativo.
 5.  Para validar a instalação, abra o terminal e execute:
     ```
-
-[file-tag: code-generated-file-0-1776949961149529096]
-bash
     ollama --version
     ```
 
