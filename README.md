@@ -64,7 +64,7 @@ Utilizaremos a extensão **Continue.dev** para integrar o VS Code ao Ollama.
 1.  No **VS Code**, acesse a aba de **Extensões** (`Ctrl+Shift+X`).
 2.  Pesquise por **"Continue"** e instale a versão oficial da `continue.dev`.
 3.  Clique no ícone do Continue na barra lateral esquerda.
-4.  Clique no ícone de engrenagem no painel da extensão para abrir o arquivo `config.json`.
+4.  Clique no ícone de engrenagem no painel da extensão e depois local config para abrir o arquivo `config.json`.
 5.  Adicione a configuração do modelo na seção `models`:
     ```json
     {
